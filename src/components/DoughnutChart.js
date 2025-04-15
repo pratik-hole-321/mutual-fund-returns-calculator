@@ -13,7 +13,7 @@ const DoughnutChart = ({ data1, data2 }) => {
       {
         label: "# of Votes",
         data: [data11, data22],
-        backgroundColor: ["rgba(152, 164, 255, 1)", "rgba(84, 104, 255, 1)"],
+        backgroundColor: ["#99B3FF", "#3366FF"],
       },
     ],
   };
